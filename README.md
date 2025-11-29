@@ -9,7 +9,7 @@ Today, I design custom Microsoft Access and Excel solutions powered by VBA progr
 I graduated from Carnegie Mellon University with a degree in Industrial Management and hold a certificate in Business Intelligence Analytics from TripleTen.
 I’m also experienced with SQL Server Management Studio (SSMS), Power BI, Tableau, and Visual Studio.
 
-My goal is to help organizations modernize their operations with automation that’s practical, reliable, and built around their business needs.  Married since 1990.  Interests include strength training, Krav Maga, Yoga and meditation.</p><p align='left'> You can view my resume <a href='https://www.linkedin.com/resume-builder/urn:li:fsd_memberResume:25850068/?edit=true ' target=_blank><u>here</u>.</a></p>
+My goal is to help organizations modernize their operations with automation that’s practical, reliable, and built around their business needs.  Married since 1990.  Interests include strength training, Krav Maga, BJJ, Yoga and meditation.</p><p align='left'> You can view my resume <a href='https://www.linkedin.com/resume-builder/urn:li:fsd_memberResume:25850068/?edit=true ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=markmfera alt=markmfera /> </p>
 
